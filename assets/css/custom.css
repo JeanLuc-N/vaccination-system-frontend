@@ -56,10 +56,6 @@ body {
 }
 
 
-.nav-link{
-    font-size: 20px;
-}
-
 
 @media (min-width: 1024px){
     .child {
